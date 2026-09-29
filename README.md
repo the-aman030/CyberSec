@@ -3,7 +3,7 @@
 
 A SOC-oriented predictive cyber-defence dashboard designed to visualize network risk, forecast attack-stage progression, analyse suspicious network paths, provide explainable security insights, and map predicted behaviour to MITRE ATT&CK.
 
-> **Prototype Status:** The current demonstration uses centralized synthetic telemetry. The application is not connected to a live network or production ML model. PCAP/CSV ingestion and backend integration are structured so the presentation layer can later be connected to a real predictive pipeline.
+> Prototype Status: The current demonstration uses centralized synthetic telemetry. The application is not connected to a live network or production ML model. PCAP/CSV ingestion and backend integration are structured so the presentation layer can later be connected to a real predictive pipeline.
 
 ---
 
