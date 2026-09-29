@@ -28,7 +28,6 @@ A SOC-oriented predictive cyber-defence dashboard designed to visualize network 
 - React
 - TypeScript
 - Tailwind CSS
-- Vite
 - Plotly
 - React Flow
 
